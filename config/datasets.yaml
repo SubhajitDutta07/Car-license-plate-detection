@@ -1,0 +1,6 @@
+path: datasets/cars_license_plate_new
+train: train/images
+val: val/images
+test: test/images
+nc: 1
+names: ['license_plate']
